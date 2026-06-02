@@ -954,6 +954,10 @@ input::placeholder {
       text-align: left;
     }
 
+    .contact > a {
+      padding: 10px 34px;
+    }
+
     input {
       width: 300px;
     }
