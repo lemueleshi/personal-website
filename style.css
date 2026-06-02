@@ -933,6 +933,10 @@ input::placeholder {
       height: 660px;
   }
 
+    .contact > a {
+      padding: 13px 34px;
+    }
+
     input {
       height: 50px;
       width: 500px;
