@@ -930,7 +930,7 @@ input::placeholder {
     }
 
     .contact {
-      height: 550px;
+      height: 660px;
   }
 
     input {
@@ -940,6 +940,9 @@ input::placeholder {
   }
 
   @media (max-width: 595px) {
+    .contact {
+      height: 550px
+    }
     .contact > h2 {
       font-size: 2rem;
       width: 350px;
@@ -953,6 +956,10 @@ input::placeholder {
   }
 
  @media (max-width: 420px) {
+  .contact {
+    height: 550px;
+  }
+     
   .contact > h2 {
     font-size: 1.7rem;
     width: 230px;
