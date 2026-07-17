@@ -541,7 +541,7 @@ input::placeholder {
 
    .project-holder {
       gap: 40px;
-      height: autom;
+      height: auto;
    }
 
    .project-holder > h2 {
